@@ -1,5 +1,6 @@
-
-  </head>
+<html>
+<head>
+</head>
   <body>
       <div id="header">
         <nav>
@@ -97,3 +98,5 @@
       </ul></td>
     </tr>
 </table>
+</body>
+</html>
